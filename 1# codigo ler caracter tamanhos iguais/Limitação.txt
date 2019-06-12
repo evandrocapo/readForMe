@@ -1,0 +1,4 @@
+As letras tem que ter o mesmo tamanho
+
+L:20px
+C:20px
